@@ -1,2 +1,2 @@
 # HelloWorldSayer
-https://travis-ci.org/hiJackinGg/HelloWorldSayer.svg?branch=master
+[![Travis build status](https://travis-ci.org/hiJackinGg/HelloWorldSayer.svg?branch=master)
