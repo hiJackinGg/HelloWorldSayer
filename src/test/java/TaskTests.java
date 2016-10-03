@@ -8,6 +8,14 @@ import static org.junit.Assert.assertEquals;
 public class TaskTests {
 
 
+    /**
+     * классы еквивалентности:
+     * morning [6-9)
+     * day [9-19)
+     * evening [19-23)
+     * night [23-6)
+     * hours [0-23]
+     */
     @Test
     public void getDayPeriodByHourTest(){
 
